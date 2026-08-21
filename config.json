@@ -1,0 +1,9 @@
+{
+    "image": [".png", ".jpg", ".jpeg", ".webp", ".gif"],
+    "movie": [".mp4", ".mkv"],
+    "document": [".pdf", ".docx", ".txt", ".html"],
+    "music": [".mp3", ".wav", ".ogg"],
+    "executable": [".exe", ".jar"],
+    "compacted": [".zip", ".rar"],
+    "minecraft": [".mcworld"]
+}
